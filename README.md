@@ -13,4 +13,4 @@ Hi there! I'm **ZhuJHua**, a developer with a strong passion for front-end work.
 
 
 ## 👨‍💻 Github Stats
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhuJHua&show_icons=true&theme=transparent&hide_border=true&hide_title=true" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhuJHua&layout=compact&theme=transparent&langs_count=8&hide_border=true&hide_title=true" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhuJHua&show_icons=true&theme=transparent&hide_border=true&hide_title=true" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhuJHua&layout=compact&theme=transparent&langs_count=8&hide_border=true&hide_title=true" />
