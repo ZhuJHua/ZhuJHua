@@ -1,6 +1,6 @@
 ## 👋 Welcome to my page
 
-I'm **ZhuJHua**, a developer with a greater preference for the front end. I take pleasure in coding some interesting items. I usually work at night because it's quiet enough.
+Hi there! I'm **ZhuJHua**, a developer with a strong passion for front-end work. I take pleasure in coding fun and interesting projects and often work at night, as the quiet atmosphere helps me concentrate.
 
 ## 🛠 My Skills
 
