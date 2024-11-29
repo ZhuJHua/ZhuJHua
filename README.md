@@ -13,6 +13,6 @@ Hi there! I'm **ZhuJHua**, a developer with a strong passion for front-end work.
 
 
 ## 👨‍💻 Github Stats
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhuJHua&show_icons=true&theme=transparent&hide_border=true&hide_title=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ZhuJHua&layout=compact&theme=transparent&langs_count=8&hide_border=true&hide_title=true&hide=cmake,ruby,shell,html,batchfile) |
+| ![GitHub Stats](https://github-stats-green-pi.vercel.app/api?username=ZhuJHua&show_icons=true&theme=transparent&hide_border=true&hide_title=true) | ![Top Languages](https://github-stats-green-pi.vercel.app/api/top-langs?username=ZhuJHua&layout=compact&theme=transparent&langs_count=8&hide_border=true&hide_title=true&hide=cmake,ruby,shell,html,batchfile) |
 |---|---|
 
