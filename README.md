@@ -5,7 +5,7 @@ Hi there! I'm **ZhuJHua**, a developer with a strong passion for front-end work.
 ## 🛠 My Skills
 
 #### Language
-![Language](https://skillicons.dev/icons?i=js,ts,dart,java,kotlin,python)
+![Language](https://skillicons.dev/icons?i=js,ts,dart,java,kotlin,python,rust)
 
 
 #### Framework
