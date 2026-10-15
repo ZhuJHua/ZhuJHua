@@ -8,5 +8,5 @@ I'm a frontend developer who loves building fun projects. I enjoy working at nig
 
 ### 📊 GitHub Stats
 
-| ![GitHub Stats](https://readme-stats-eight-snowy.vercel.app/api?username=ZhuJHua&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true) | ![Top Languages](https://readme-stats-eight-snowy.vercel.app/api/top-langs?username=ZhuJHua&layout=compact&theme=transparent&langs_count=8&hide_border=true&hide_title=true&hide=cmake,ruby,shell,html,batchfile) |
+| ![GitHub Stats](https://github-stats-extended-lyart-nu.vercel.app/api?username=ZhuJHua&show_icons=true&theme_light=light_github&theme_dark=dark_github&hide_border=true&hide_title=true&include_all_commits=true) | ![Top Languages](https://github-stats-extended-lyart-nu.vercel.app/api/top-langs?username=ZhuJHua&layout=compact&theme_light=light_github&theme_dark=dark_github&langs_count=8&hide_border=true&hide_title=true&hide=cmake,ruby,shell,html,batchfile) |
 |---|---|
